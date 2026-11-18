@@ -28,8 +28,13 @@
     }
   ],
   "env": {
+    "APP_NAME": "NANDAN TOURS ERP",
     "APP_ENV": "production",
-    "APP_DEBUG": "false",
+    "APP_DEBUG": "true",
+    "APP_KEY": "base64:ucpQ3/rFR3Q+RrmkpBoSgYpUbguUopzq7WwfVK8v96o=",
+    "APP_URL": "https://nandan-kappa.vercel.app",
+    "DB_CONNECTION": "sqlite",
+    "DB_DATABASE": "/tmp/database.sqlite",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
     "APP_PACKAGES_CACHE": "/tmp/packages.php",
